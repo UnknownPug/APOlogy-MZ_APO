@@ -140,6 +140,3 @@ the <ins>"YOU WIN"</ins> screen is displayed with the number of points scored by
 - File <ins>run.sh</ins> is used to run the game.
 
 - For file interactions see the diagram **below**:
-
-
-##### Have fun! :yum: 
